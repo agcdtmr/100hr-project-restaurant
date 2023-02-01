@@ -4,6 +4,13 @@ These 100 hour projects are part of the freelance work as Full Stack Software En
 
 Check out this ongoing restaurant website and mobile app project [here](https://100hr-project-restaurant.vercel.app/)
 
+## Learnings:
+- How I can turn navbar texts into a burger for a certain screen size.
+- How to use background image and how it should be positioned
+- How to use a html form with an search image next to it
+- How to divide content sections with each other (landing page, more infos, rating page)
+- How important it is to have the padding for the whole page
+
 Curious about my other repos? See [here](https://github.com/agcdtmr?tab=repositories)
 
 
